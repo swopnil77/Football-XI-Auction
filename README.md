@@ -1,7 +1,26 @@
 # Iconic XI
 
-Draft an all-time-great football XI with friends via auction, then settle the argument on the pitch.
-Next.js (App Router) + Supabase, built for 2–10 people each on their own device.
+Draft an all-time-great football XI with friends via auction, then settle it on the pitch.
+Next.js (App Router) + Supabase + a small standalone Node engine, built for 2–10 people each
+on their own device.
+
+## Architecture
+
+Two deployable pieces:
+
+1. **The Next.js app** (this root folder) — the actual UI. Deploys to Vercel as normal. Reads
+   and writes to Supabase directly from the browser, and listens for changes via Supabase
+   Realtime (WebSocket) so everyone's screen stays in sync.
+2. **`/server`** — a standalone Node process that owns auction timing. It's the single source
+   of truth for "has this bidding round's timer run out?" and "is it time to reveal the next
+   lot?" — see `server/README.md` for what it does and how to deploy it. This is what makes
+   the auction reliable: previously every open browser tab polled and raced to close rounds
+   itself, which meant real races between tabs and the auction stalling if everyone closed
+   their tab. Now there's exactly one authority, running continuously, independent of anyone
+   having the page open.
+
+Both pieces talk to the same Supabase project and never talk to each other directly — the
+engine writes results, Realtime pushes them to whoever's connected.
 
 ## What's working right now
 
@@ -30,9 +49,9 @@ them require touching the schema or data layer.
 
 - **Sealed bids aren't cryptographically hidden.** RLS is permissive for v1 — the UI just never displays
   other teams' sealed bids before the reveal. A teammate poking at browser dev tools could peek.
-- **The auction engine has no real server.** Every connected browser tab races to resolve expired rounds;
-  an optimistic lock means only one succeeds, but it does mean the game stalls if literally everyone closes
-  their tab mid-auction. Fine for a friend group actually playing together.
+- **The auction engine (`/server`) needs to actually be deployed and running** for rounds to
+  close and lots to advance — without it, bids can still be placed but nothing will ever
+  resolve. Check its `/` health endpoint if an auction seems stuck.
 - **The dataset now meets the full target spec** (15/70/70/70 players, 20 managers) — big rooms and the
   "2026 only" mode both have enough pool to work with. Still just one instance of each real person, so a
   10-team room with heavy "current squad" filtering could theoretically run thinner on some positions —
@@ -71,7 +90,11 @@ them require touching the schema or data layer.
    ```
    Safe to re-run any time you edit `data/players.json` or `data/managers.json`.
 
-6. **Run it**
+6. **Deploy the auction engine** — see `server/README.md`. This is required for auctions to
+   actually resolve; without it bids can be placed but rounds never close. Render's free
+   "Background Worker" tier is the fastest way to get it running.
+
+7. **Run it**
    ```bash
    npm run dev
    ```

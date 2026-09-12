@@ -7,8 +7,6 @@ import {
   fetchQueueItemDetail,
   placeLiveBid,
   placeSealedBid,
-  resolveIfExpired,
-  advanceIfRevealDone,
   getTeamEligibility,
   MIN_RESERVE_PER_SLOT,
   OPENING_BID,
@@ -151,15 +149,13 @@ function AuctionInner() {
       .on('postgres_changes', { event: 'INSERT', schema: 'public', table: 'team_roster' }, () => refreshEligibility())
       .subscribe();
 
-    const heartbeat = setInterval(() => {
-      setNow(Date.now());
-      resolveIfExpired(code);
-      advanceIfRevealDone(code);
-    }, 1200);
+    // Just ticks the visible countdown — the standalone engine service is what actually
+    // closes rounds and advances lots now, so there's nothing to poll for here anymore.
+    const ticker = setInterval(() => setNow(Date.now()), 500);
 
     return () => {
       supabase.removeChannel(channel);
-      clearInterval(heartbeat);
+      clearInterval(ticker);
     };
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [code]);
