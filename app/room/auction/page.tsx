@@ -212,9 +212,14 @@ function AuctionInner() {
       return;
     }
     try {
+      // Reflect it on our own screen immediately — Realtime will confirm/correct it for everyone else.
+      setCurrentAuction((prev) =>
+        prev ? { ...prev, high_bid: amount, high_bid_team_id: myTeam.id, ends_at: new Date(Date.now() + (room?.settings?.bid_timer_seconds ?? 20) * 1000).toISOString() } : prev
+      );
       await placeLiveBid(code, currentAuction.queue_id, myTeam.id, amount, room?.settings?.bid_timer_seconds ?? 20);
     } catch (e: any) {
       setError(e.message ?? 'Could not place that bid.');
+      refreshCurrentAuction(); // undo the optimistic update if the write actually failed
     }
   }
 

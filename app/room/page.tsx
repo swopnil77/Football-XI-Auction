@@ -88,7 +88,13 @@ function RoomLobbyInner() {
 
   async function setMyFormation(formation: string) {
     if (!currentName) return;
-    await supabase.from('teams').update({ formation }).eq('room_id', code).eq('owner_name', currentName);
+    const previous = teams.find((t) => t.owner_name === currentName)?.formation ?? null;
+    // Update our own screen immediately — don't wait on Realtime to echo it back.
+    setTeams((prev) => prev.map((t) => (t.owner_name === currentName ? { ...t, formation } : t)));
+    const { error } = await supabase.from('teams').update({ formation }).eq('room_id', code).eq('owner_name', currentName);
+    if (error) {
+      setTeams((prev) => prev.map((t) => (t.owner_name === currentName ? { ...t, formation: previous } : t)));
+    }
   }
 
   async function startAuctionHandler() {
