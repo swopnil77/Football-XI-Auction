@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=Work+Sans:wght@400;500;600&display=swap');
+@import './tokens.css';
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-chalk);
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: 1.5;
+}
+
+body {
+  background-image:
+    radial-gradient(ellipse 900px 500px at 15% -10%, rgba(31, 77, 52, 0.35), transparent),
+    radial-gradient(ellipse 700px 400px at 100% 10%, rgba(201, 162, 39, 0.06), transparent);
+  background-attachment: fixed;
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-display);
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  margin: 0 0 var(--space-3) 0;
+}
+
+h1 {
+  font-size: var(--fs-h1);
+}
+
+h2 {
+  font-size: var(--fs-h2);
+}
+
+h3 {
+  font-size: var(--fs-h3);
+}
+
+p {
+  margin: 0 0 var(--space-3) 0;
+  color: var(--color-muted);
+  max-width: 65ch;
+}
+
+a {
+  color: var(--color-gold-bright);
+  text-decoration: none;
+}
+
+button {
+  font-family: var(--font-body);
+  cursor: pointer;
+}
+
+input {
+  font-family: var(--font-body);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-gold-bright);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}

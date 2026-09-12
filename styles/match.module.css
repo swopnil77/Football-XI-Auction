@@ -1,0 +1,78 @@
+.page {
+  min-height: 100vh;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: var(--space-5) var(--space-4);
+}
+
+.standingsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin: var(--space-4) 0 var(--space-5) 0;
+  font-size: var(--fs-small);
+}
+
+.standingsTable th {
+  text-align: left;
+  color: var(--color-muted);
+  font-weight: 500;
+  padding: var(--space-2);
+  border-bottom: 1px solid var(--color-pitch-line);
+}
+
+.standingsTable td {
+  padding: var(--space-2);
+  border-bottom: var(--line);
+}
+
+.standingsTable tr:first-child td {
+  color: var(--color-gold-bright);
+  font-family: var(--font-display);
+}
+
+.matchCard {
+  background: var(--color-bg-card);
+  border: var(--line);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  margin-bottom: var(--space-3);
+}
+
+.matchScoreRow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  margin-bottom: var(--space-3);
+}
+
+.matchScoreRow span:nth-child(2) {
+  color: var(--color-gold-bright);
+}
+
+.commentary {
+  color: var(--color-chalk);
+  font-size: var(--fs-small);
+  line-height: 1.6;
+  font-style: italic;
+}
+
+.runButton {
+  width: 100%;
+  background: var(--color-gold);
+  color: #14150f;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: var(--space-3);
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  margin: var(--space-4) 0;
+}
+
+.runButton:disabled {
+  background: var(--color-muted-dim);
+  color: var(--color-muted);
+  cursor: not-allowed;
+}

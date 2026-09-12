@@ -1,0 +1,547 @@
+[
+  {
+    "name": "Sir Alex Ferguson",
+    "preferredFormation": "4-4-2",
+    "clubs": [
+      {
+        "name": "Aberdeen",
+        "start": 1978,
+        "end": 1986
+      },
+      {
+        "name": "Manchester United",
+        "start": 1986,
+        "end": 2013
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Pep Guardiola",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2008,
+        "end": 2012
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "Manchester City",
+        "start": 2016,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Jose Mourinho",
+    "preferredFormation": "4-2-3-1",
+    "clubs": [
+      {
+        "name": "Porto",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Chelsea",
+        "start": 2004,
+        "end": 2007
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2008,
+        "end": 2010
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Chelsea",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Manchester United",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Roma",
+        "start": 2021,
+        "end": 2024
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Carlo Ancelotti",
+    "preferredFormation": "4-4-2",
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 2001,
+        "end": 2009
+      },
+      {
+        "name": "Chelsea",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "PSG",
+        "start": 2011,
+        "end": 2013
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2016,
+        "end": 2017
+      },
+      {
+        "name": "Napoli",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Everton",
+        "start": 2019,
+        "end": 2021
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Arrigo Sacchi",
+    "preferredFormation": "4-4-2 pressing",
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 1987,
+        "end": 1991
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Italy",
+        "start": 1991,
+        "end": 1996
+      }
+    ]
+  },
+  {
+    "name": "Marcello Lippi",
+    "preferredFormation": "3-5-2",
+    "clubs": [
+      {
+        "name": "Juventus",
+        "start": 1994,
+        "end": 1999
+      },
+      {
+        "name": "Juventus",
+        "start": 2001,
+        "end": 2004
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Italy",
+        "start": 2004,
+        "end": 2006
+      },
+      {
+        "name": "Italy",
+        "start": 2008,
+        "end": 2010
+      }
+    ]
+  },
+  {
+    "name": "Vicente del Bosque",
+    "preferredFormation": "4-2-3-1",
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2000,
+        "end": 2003
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Spain",
+        "start": 2008,
+        "end": 2016
+      }
+    ]
+  },
+  {
+    "name": "Rinus Michels",
+    "preferredFormation": "Total Football 4-3-3",
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1965,
+        "end": 1971
+      },
+      {
+        "name": "Barcelona",
+        "start": 1971,
+        "end": 1975
+      },
+      {
+        "name": "Ajax",
+        "start": 1975,
+        "end": 1976
+      },
+      {
+        "name": "Barcelona",
+        "start": 1976,
+        "end": 1978
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Netherlands",
+        "start": 1974,
+        "end": 1974
+      },
+      {
+        "name": "Netherlands",
+        "start": 1988,
+        "end": 1988
+      }
+    ]
+  },
+  {
+    "name": "Jurgen Klopp",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Mainz 05",
+        "start": 2001,
+        "end": 2008
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2008,
+        "end": 2015
+      },
+      {
+        "name": "Liverpool",
+        "start": 2015,
+        "end": 2024
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Diego Simeone",
+    "preferredFormation": "4-4-2",
+    "clubs": [
+      {
+        "name": "Racing Club",
+        "start": 2006,
+        "end": 2007
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2011,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Luis Enrique",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "name": "PSG",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Spain",
+        "start": 2018,
+        "end": 2022
+      }
+    ]
+  },
+  {
+    "name": "Thomas Tuchel",
+    "preferredFormation": "3-5-2",
+    "clubs": [
+      {
+        "name": "Borussia Dortmund",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "PSG",
+        "start": 2018,
+        "end": 2020
+      },
+      {
+        "name": "Chelsea",
+        "start": 2021,
+        "end": 2022
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2023,
+        "end": 2024
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "England",
+        "start": 2025,
+        "end": 2026
+      }
+    ]
+  },
+  {
+    "name": "Mikel Arteta",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Hansi Flick",
+    "preferredFormation": "4-2-3-1",
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2019,
+        "end": 2021
+      },
+      {
+        "name": "Barcelona",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Germany",
+        "start": 2021,
+        "end": 2023
+      }
+    ]
+  },
+  {
+    "name": "Xabi Alonso",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2022,
+        "end": 2025
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Zinedine Zidane",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2021
+      }
+    ],
+    "nationalTeams": []
+  },
+  {
+    "name": "Fabio Capello",
+    "preferredFormation": "4-4-2",
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 1991,
+        "end": 1996
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Roma",
+        "start": 1999,
+        "end": 2004
+      },
+      {
+        "name": "Juventus",
+        "start": 2004,
+        "end": 2006
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2006,
+        "end": 2007
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "England",
+        "start": 2007,
+        "end": 2012
+      }
+    ]
+  },
+  {
+    "name": "Louis van Gaal",
+    "preferredFormation": "4-3-3",
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1991,
+        "end": 1997
+      },
+      {
+        "name": "Barcelona",
+        "start": 1997,
+        "end": 2000
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Manchester United",
+        "start": 2014,
+        "end": 2016
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Netherlands",
+        "start": 2000,
+        "end": 2002
+      },
+      {
+        "name": "Netherlands",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Netherlands",
+        "start": 2021,
+        "end": 2022
+      }
+    ]
+  },
+  {
+    "name": "Marcelo Bielsa",
+    "preferredFormation": "3-5-2",
+    "clubs": [
+      {
+        "name": "Athletic Bilbao",
+        "start": 2011,
+        "end": 2013
+      },
+      {
+        "name": "Marseille",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Leeds United",
+        "start": 2018,
+        "end": 2022
+      }
+    ],
+    "nationalTeams": [
+      {
+        "name": "Argentina",
+        "start": 1998,
+        "end": 2004
+      },
+      {
+        "name": "Chile",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Uruguay",
+        "start": 2023,
+        "end": 2026
+      }
+    ]
+  },
+  {
+    "name": "Unai Emery",
+    "preferredFormation": "4-2-3-1",
+    "clubs": [
+      {
+        "name": "Sevilla",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "PSG",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2019
+      },
+      {
+        "name": "Villarreal",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "nationalTeams": []
+  }
+]

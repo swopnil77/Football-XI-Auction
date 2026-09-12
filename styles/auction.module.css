@@ -1,0 +1,198 @@
+.page {
+  min-height: 100vh;
+  max-width: 640px;
+  margin: 0 auto;
+  padding: var(--space-5) var(--space-4);
+}
+
+.progress {
+  font-size: var(--fs-small);
+  color: var(--color-muted);
+  margin-bottom: var(--space-3);
+}
+
+.lotCard {
+  background: var(--color-bg-card);
+  border: 1px solid var(--color-pitch-line);
+  border-radius: var(--radius-md);
+  padding: var(--space-5);
+  text-align: center;
+}
+
+.itemTypeTag {
+  display: inline-block;
+  font-family: var(--font-display);
+  font-size: var(--fs-small);
+  letter-spacing: 0.06em;
+  color: var(--color-gold-bright);
+  background: rgba(201, 162, 39, 0.12);
+  padding: 2px 10px;
+  border-radius: 999px;
+  margin-bottom: var(--space-3);
+}
+
+.itemName {
+  font-size: clamp(1.6rem, 5vw, 2.4rem);
+  margin-bottom: var(--space-2);
+}
+
+.itemMeta {
+  color: var(--color-muted);
+  font-size: var(--fs-small);
+  margin-bottom: var(--space-4);
+}
+
+.statRow {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-5);
+  margin-bottom: var(--space-4);
+}
+
+.stat {
+  text-align: center;
+}
+
+.stat span {
+  display: block;
+}
+
+.statValue {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--color-chalk);
+}
+
+.statLabel {
+  font-size: var(--fs-small);
+  color: var(--color-muted);
+}
+
+.clubHistory {
+  color: var(--color-muted);
+  font-size: var(--fs-small);
+  margin-bottom: var(--space-4);
+}
+
+.bidBlock {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-3);
+  align-items: center;
+  margin: var(--space-4) 0;
+}
+
+.highBid {
+  text-align: left;
+}
+
+.highBidValue {
+  font-family: var(--font-display);
+  font-size: var(--fs-scoreboard);
+  color: var(--color-gold-bright);
+  line-height: 1;
+}
+
+.highBidTeam {
+  color: var(--color-muted);
+  font-size: var(--fs-small);
+}
+
+.timer {
+  text-align: right;
+  font-family: var(--font-display);
+  font-size: 2.5rem;
+}
+
+.timerUrgent {
+  composes: timer;
+  color: var(--color-danger);
+}
+
+.bidForm {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.bidForm input {
+  flex: 1;
+  background: var(--color-bg-elevated);
+  border: var(--line);
+  border-radius: var(--radius-sm);
+  padding: var(--space-3);
+  color: var(--color-chalk);
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.bidForm button {
+  background: var(--color-gold);
+  color: #14150f;
+  border: none;
+  border-radius: var(--radius-sm);
+  padding: 0 var(--space-4);
+  font-family: var(--font-display);
+  font-size: 1rem;
+}
+
+.bidForm button:disabled {
+  background: var(--color-muted-dim);
+  color: var(--color-muted);
+  cursor: not-allowed;
+}
+
+.quickBids {
+  display: flex;
+  gap: var(--space-2);
+  justify-content: center;
+  margin-top: var(--space-3);
+}
+
+.quickBids button {
+  background: transparent;
+  border: var(--line);
+  color: var(--color-chalk);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  font-family: var(--font-display);
+}
+
+.sealedLocked {
+  color: var(--color-success);
+  font-size: var(--fs-small);
+}
+
+.myBudget {
+  text-align: center;
+  color: var(--color-muted);
+  font-size: var(--fs-small);
+  margin-top: var(--space-3);
+}
+
+.teamGrid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  justify-content: center;
+  margin-top: var(--space-5);
+}
+
+.teamChip {
+  background: var(--color-bg-card);
+  border: var(--line);
+  border-radius: 999px;
+  padding: var(--space-1) var(--space-3);
+  font-size: var(--fs-small);
+  color: var(--color-muted);
+}
+
+.teamChipWinning {
+  composes: teamChip;
+  border-color: var(--color-gold);
+  color: var(--color-gold-bright);
+}
+
+.doneCard {
+  text-align: center;
+  padding: var(--space-6) 0;
+}

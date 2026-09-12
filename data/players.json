@@ -1,0 +1,7588 @@
+[
+  {
+    "name": "Lev Yashin",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 92,
+    "nationality": "Soviet Union",
+    "nationalTeam": "Soviet Union",
+    "nationalYears": {
+      "start": 1954,
+      "end": 1967
+    },
+    "clubs": [
+      {
+        "name": "Dynamo Moscow",
+        "start": 1950,
+        "end": 1970
+      }
+    ],
+    "era": "1950s-1960s"
+  },
+  {
+    "name": "Gianluigi Buffon",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 91,
+    "skill": 93,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Parma",
+        "start": 1995,
+        "end": 2001
+      },
+      {
+        "name": "Juventus",
+        "start": 2001,
+        "end": 2018
+      },
+      {
+        "name": "PSG",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Juventus",
+        "start": 2019,
+        "end": 2021
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Iker Casillas",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2000,
+      "end": 2016
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 1999,
+        "end": 2015
+      },
+      {
+        "name": "Porto",
+        "start": 2015,
+        "end": 2020
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Franz Beckenbauer",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 93,
+    "skill": 91,
+    "nationality": "Germany",
+    "nationalTeam": "West Germany",
+    "nationalYears": {
+      "start": 1965,
+      "end": 1977
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 1964,
+        "end": 1977
+      },
+      {
+        "name": "New York Cosmos",
+        "start": 1977,
+        "end": 1980
+      }
+    ],
+    "era": "1960s-1970s"
+  },
+  {
+    "name": "Franco Baresi",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 91,
+    "skill": 90,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1982,
+      "end": 1994
+    },
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 1977,
+        "end": 1997
+      }
+    ],
+    "era": "1980s-1990s"
+  },
+  {
+    "name": "Fabio Cannavaro",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 90,
+    "skill": 89,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "Napoli",
+        "start": 1995,
+        "end": 2002
+      },
+      {
+        "name": "Parma",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2004,
+        "end": 2006
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2006,
+        "end": 2009
+      },
+      {
+        "name": "Juventus",
+        "start": 2009,
+        "end": 2010
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Virgil van Dijk",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Celtic",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Southampton",
+        "start": 2015,
+        "end": 2018
+      },
+      {
+        "name": "Liverpool",
+        "start": 2018,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Alessandro Nesta",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 89,
+    "skill": 88,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1996,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Lazio",
+        "start": 1993,
+        "end": 2002
+      },
+      {
+        "name": "AC Milan",
+        "start": 2002,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Paolo Maldini",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 92,
+    "skill": 91,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1988,
+      "end": 2002
+    },
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 1984,
+        "end": 2009
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Roberto Carlos",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 90,
+    "skill": 92,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1992,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Palmeiras",
+        "start": 1991,
+        "end": 1995
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1995,
+        "end": 1996
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1996,
+        "end": 2007
+      },
+      {
+        "name": "Fenerbahce",
+        "start": 2007,
+        "end": 2008
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Marcelo",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Fluminense",
+        "start": 2005,
+        "end": 2007
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2007,
+        "end": 2022
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Cafu",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1990,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Sao Paulo",
+        "start": 1989,
+        "end": 1994
+      },
+      {
+        "name": "Real Zaragoza",
+        "start": 1994,
+        "end": 1995
+      },
+      {
+        "name": "Palmeiras",
+        "start": 1995,
+        "end": 1997
+      },
+      {
+        "name": "Roma",
+        "start": 1997,
+        "end": 2003
+      },
+      {
+        "name": "AC Milan",
+        "start": 2003,
+        "end": 2008
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Dani Alves",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 90,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Sevilla",
+        "start": 2002,
+        "end": 2008
+      },
+      {
+        "name": "Barcelona",
+        "start": 2008,
+        "end": 2016
+      },
+      {
+        "name": "Juventus",
+        "start": 2016,
+        "end": 2017
+      },
+      {
+        "name": "PSG",
+        "start": 2017,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Philipp Lahm",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 89,
+    "skill": 88,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2002,
+        "end": 2017
+      },
+      {
+        "name": "VfB Stuttgart",
+        "start": 2003,
+        "end": 2005
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Andrea Pirlo",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 90,
+    "skill": 92,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2015
+    },
+    "clubs": [
+      {
+        "name": "Brescia",
+        "start": 1995,
+        "end": 1998
+      },
+      {
+        "name": "AC Milan",
+        "start": 2001,
+        "end": 2011
+      },
+      {
+        "name": "Juventus",
+        "start": 2011,
+        "end": 2015
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Xavi Hernandez",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 91,
+    "skill": 93,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2000,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 1998,
+        "end": 2015
+      },
+      {
+        "name": "Al Sadd",
+        "start": 2015,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Andres Iniesta",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 91,
+    "skill": 92,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2002,
+        "end": 2018
+      },
+      {
+        "name": "Vissel Kobe",
+        "start": 2018,
+        "end": 2023
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "N'Golo Kante",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Caen",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Leicester City",
+        "start": 2015,
+        "end": 2016
+      },
+      {
+        "name": "Chelsea",
+        "start": 2016,
+        "end": 2023
+      },
+      {
+        "name": "Al-Ittihad",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Zinedine Zidane",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 93,
+    "skill": 94,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1994,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Cannes",
+        "start": 1989,
+        "end": 1992
+      },
+      {
+        "name": "Bordeaux",
+        "start": 1992,
+        "end": 1996
+      },
+      {
+        "name": "Juventus",
+        "start": 1996,
+        "end": 2001
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2001,
+        "end": 2006
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Diego Maradona",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 95,
+    "skill": 96,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 1977,
+      "end": 1994
+    },
+    "clubs": [
+      {
+        "name": "Boca Juniors",
+        "start": 1981,
+        "end": 1982
+      },
+      {
+        "name": "Barcelona",
+        "start": 1982,
+        "end": 1984
+      },
+      {
+        "name": "Napoli",
+        "start": 1984,
+        "end": 1991
+      },
+      {
+        "name": "Sevilla",
+        "start": 1992,
+        "end": 1993
+      },
+      {
+        "name": "Newell's Old Boys",
+        "start": 1993,
+        "end": 1993
+      }
+    ],
+    "era": "1970s-1990s"
+  },
+  {
+    "name": "Ronaldinho",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 90,
+    "skill": 93,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1999,
+      "end": 2013
+    },
+    "clubs": [
+      {
+        "name": "Gremio",
+        "start": 1998,
+        "end": 2001
+      },
+      {
+        "name": "PSG",
+        "start": 2001,
+        "end": 2003
+      },
+      {
+        "name": "Barcelona",
+        "start": 2003,
+        "end": 2008
+      },
+      {
+        "name": "AC Milan",
+        "start": 2008,
+        "end": 2011
+      }
+    ],
+    "era": "2000s"
+  },
+  {
+    "name": "Kaka",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2015
+    },
+    "clubs": [
+      {
+        "name": "Sao Paulo",
+        "start": 2001,
+        "end": 2003
+      },
+      {
+        "name": "AC Milan",
+        "start": 2003,
+        "end": 2009
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "name": "AC Milan",
+        "start": 2013,
+        "end": 2014
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Pele",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 97,
+    "skill": 96,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1957,
+      "end": 1971
+    },
+    "clubs": [
+      {
+        "name": "Santos",
+        "start": 1956,
+        "end": 1974
+      },
+      {
+        "name": "New York Cosmos",
+        "start": 1975,
+        "end": 1977
+      }
+    ],
+    "era": "1950s-1970s"
+  },
+  {
+    "name": "Cristiano Ronaldo",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 96,
+    "skill": 95,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sporting CP",
+        "start": 2002,
+        "end": 2003
+      },
+      {
+        "name": "Manchester United",
+        "start": 2003,
+        "end": 2009
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2009,
+        "end": 2018
+      },
+      {
+        "name": "Juventus",
+        "start": 2018,
+        "end": 2021
+      },
+      {
+        "name": "Manchester United",
+        "start": 2021,
+        "end": 2022
+      },
+      {
+        "name": "Al Nassr",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Lionel Messi",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 97,
+    "skill": 97,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2005,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2004,
+        "end": 2021
+      },
+      {
+        "name": "PSG",
+        "start": 2021,
+        "end": 2023
+      },
+      {
+        "name": "Inter Miami",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ronaldo Nazario",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 94,
+    "skill": 95,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1994,
+      "end": 2011
+    },
+    "clubs": [
+      {
+        "name": "Cruzeiro",
+        "start": 1993,
+        "end": 1994
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 1994,
+        "end": 1996
+      },
+      {
+        "name": "Barcelona",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1997,
+        "end": 2002
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2002,
+        "end": 2007
+      },
+      {
+        "name": "AC Milan",
+        "start": 2007,
+        "end": 2008
+      },
+      {
+        "name": "Corinthians",
+        "start": 2009,
+        "end": 2011
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Johan Cruyff",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 93,
+    "skill": 94,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1966,
+      "end": 1977
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1964,
+        "end": 1973
+      },
+      {
+        "name": "Barcelona",
+        "start": 1973,
+        "end": 1978
+      },
+      {
+        "name": "Ajax",
+        "start": 1981,
+        "end": 1983
+      }
+    ],
+    "era": "1960s-1970s"
+  },
+  {
+    "name": "Thierry Henry",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 1994,
+        "end": 1999
+      },
+      {
+        "name": "Juventus",
+        "start": 1999,
+        "end": 1999
+      },
+      {
+        "name": "Arsenal",
+        "start": 1999,
+        "end": 2007
+      },
+      {
+        "name": "Barcelona",
+        "start": 2007,
+        "end": 2010
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Ferenc Puskas",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 92,
+    "skill": 91,
+    "nationality": "Hungary",
+    "nationalTeam": "Hungary",
+    "nationalYears": {
+      "start": 1945,
+      "end": 1956
+    },
+    "clubs": [
+      {
+        "name": "Honved",
+        "start": 1943,
+        "end": 1958
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1958,
+        "end": 1966
+      }
+    ],
+    "era": "1940s-1960s"
+  },
+  {
+    "name": "Manuel Neuer",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Schalke 04",
+        "start": 2006,
+        "end": 2011
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2011,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Petr Cech",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "Czech Republic",
+    "nationalTeam": "Czech Republic",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2016
+    },
+    "clubs": [
+      {
+        "name": "Rennes",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Chelsea",
+        "start": 2004,
+        "end": 2015
+      },
+      {
+        "name": "Arsenal",
+        "start": 2015,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Thibaut Courtois",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 90,
+    "nationality": "Belgium",
+    "nationalTeam": "Belgium",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Genk",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Chelsea",
+        "start": 2011,
+        "end": 2018
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2018,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Alisson Becker",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Internacional",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "Roma",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Liverpool",
+        "start": 2018,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Jan Oblak",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Slovenia",
+    "nationalTeam": "Slovenia",
+    "nationalYears": {
+      "start": 2012,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2010,
+        "end": 2014
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2014,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Sergio Ramos",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 91,
+    "skill": 90,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2005,
+      "end": 2021
+    },
+    "clubs": [
+      {
+        "name": "Sevilla",
+        "start": 2004,
+        "end": 2005
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2005,
+        "end": 2021
+      },
+      {
+        "name": "PSG",
+        "start": 2021,
+        "end": 2023
+      },
+      {
+        "name": "Sevilla",
+        "start": 2023,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Gerard Pique",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Manchester United",
+        "start": 2004,
+        "end": 2008
+      },
+      {
+        "name": "Barcelona",
+        "start": 2008,
+        "end": 2022
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Thiago Silva",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 2009,
+        "end": 2012
+      },
+      {
+        "name": "PSG",
+        "start": 2012,
+        "end": 2020
+      },
+      {
+        "name": "Chelsea",
+        "start": 2020,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Rio Ferdinand",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 86,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2011
+    },
+    "clubs": [
+      {
+        "name": "West Ham United",
+        "start": 1996,
+        "end": 2000
+      },
+      {
+        "name": "Leeds United",
+        "start": 2000,
+        "end": 2002
+      },
+      {
+        "name": "Manchester United",
+        "start": 2002,
+        "end": 2014
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Carles Puyol",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 87,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2000,
+      "end": 2013
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 1999,
+        "end": 2014
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Marquinhos",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2013,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Corinthians",
+        "start": 2011,
+        "end": 2013
+      },
+      {
+        "name": "PSG",
+        "start": 2013,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Trent Alexander-Arnold",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Liverpool",
+        "start": 2016,
+        "end": 2025
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Kyle Walker",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sheffield United",
+        "start": 2007,
+        "end": 2009
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2009,
+        "end": 2017
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2024
+      },
+      {
+        "name": "AC Milan",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Achraf Hakimi",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Morocco",
+    "nationalTeam": "Morocco",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Borussia Dortmund",
+        "start": 2018,
+        "end": 2020
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2020,
+        "end": 2021
+      },
+      {
+        "name": "PSG",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Andrew Robertson",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "Scotland",
+    "nationalTeam": "Scotland",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Hull City",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "name": "Liverpool",
+        "start": 2017,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Alphonso Davies",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 89,
+    "nationality": "Canada",
+    "nationalTeam": "Canada",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Vancouver Whitecaps",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Jordi Alba",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2023
+    },
+    "clubs": [
+      {
+        "name": "Valencia",
+        "start": 2009,
+        "end": 2012
+      },
+      {
+        "name": "Barcelona",
+        "start": 2012,
+        "end": 2023
+      },
+      {
+        "name": "Inter Miami",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Kevin De Bruyne",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 91,
+    "skill": 92,
+    "nationality": "Belgium",
+    "nationalTeam": "Belgium",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Genk",
+        "start": 2008,
+        "end": 2012
+      },
+      {
+        "name": "Chelsea",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Wolfsburg",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Manchester City",
+        "start": 2015,
+        "end": 2025
+      },
+      {
+        "name": "Napoli",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Luka Modric",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 92,
+    "nationality": "Croatia",
+    "nationalTeam": "Croatia",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Dinamo Zagreb",
+        "start": 2003,
+        "end": 2008
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2008,
+        "end": 2012
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2012,
+        "end": 2025
+      },
+      {
+        "name": "AC Milan",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Toni Kroos",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 91,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2007,
+        "end": 2014
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2014,
+        "end": 2024
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Sergio Busquets",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2008,
+        "end": 2023
+      },
+      {
+        "name": "Inter Miami",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Casemiro",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2022
+      },
+      {
+        "name": "Manchester United",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Frenkie de Jong",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Barcelona",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Rodri",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Villarreal",
+        "start": 2015,
+        "end": 2019
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Manchester City",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Pedri",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 88,
+    "skill": 90,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2020,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Bruno Fernandes",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sporting CP",
+        "start": 2017,
+        "end": 2020
+      },
+      {
+        "name": "Manchester United",
+        "start": 2020,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Mesut Ozil",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 89,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Werder Bremen",
+        "start": 2008,
+        "end": 2010
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Arsenal",
+        "start": 2013,
+        "end": 2021
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Jude Bellingham",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2020,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Birmingham City",
+        "start": 2019,
+        "end": 2020
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2020,
+        "end": 2023
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Roberto Baggio",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1988,
+      "end": 2004
+    },
+    "clubs": [
+      {
+        "name": "Fiorentina",
+        "start": 1985,
+        "end": 1990
+      },
+      {
+        "name": "Juventus",
+        "start": 1990,
+        "end": 1995
+      },
+      {
+        "name": "AC Milan",
+        "start": 1995,
+        "end": 1997
+      },
+      {
+        "name": "Bologna",
+        "start": 1997,
+        "end": 1998
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1998,
+        "end": 2000
+      },
+      {
+        "name": "Brescia",
+        "start": 2000,
+        "end": 2004
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Kylian Mbappe",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 96,
+    "skill": 96,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "PSG",
+        "start": 2017,
+        "end": 2024
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Erling Haaland",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 93,
+    "skill": 92,
+    "nationality": "Norway",
+    "nationalTeam": "Norway",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Molde",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Salzburg",
+        "start": 2019,
+        "end": 2020
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Manchester City",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Neymar Jr",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 91,
+    "skill": 93,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Santos",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "name": "Barcelona",
+        "start": 2013,
+        "end": 2017
+      },
+      {
+        "name": "PSG",
+        "start": 2017,
+        "end": 2023
+      },
+      {
+        "name": "Al Hilal",
+        "start": 2023,
+        "end": 2025
+      },
+      {
+        "name": "Santos",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Mohamed Salah",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Egypt",
+    "nationalTeam": "Egypt",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Basel",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Chelsea",
+        "start": 2014,
+        "end": 2016
+      },
+      {
+        "name": "Roma",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "Liverpool",
+        "start": 2017,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Robert Lewandowski",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 91,
+    "skill": 91,
+    "nationality": "Poland",
+    "nationalTeam": "Poland",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Lech Poznan",
+        "start": 2008,
+        "end": 2010
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2010,
+        "end": 2014
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2014,
+        "end": 2022
+      },
+      {
+        "name": "Barcelona",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Karim Benzema",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 90,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2007,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Lyon",
+        "start": 2004,
+        "end": 2009
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2009,
+        "end": 2023
+      },
+      {
+        "name": "Al-Ittihad",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Luis Suarez",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Uruguay",
+    "nationalTeam": "Uruguay",
+    "nationalYears": {
+      "start": 2007,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Liverpool",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "name": "Barcelona",
+        "start": 2014,
+        "end": 2020
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Inter Miami",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Zlatan Ibrahimovic",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Sweden",
+    "nationalTeam": "Sweden",
+    "nationalYears": {
+      "start": 2001,
+      "end": 2021
+    },
+    "clubs": [
+      {
+        "name": "Malmo",
+        "start": 1999,
+        "end": 2001
+      },
+      {
+        "name": "Ajax",
+        "start": 2001,
+        "end": 2004
+      },
+      {
+        "name": "Juventus",
+        "start": 2004,
+        "end": 2006
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2006,
+        "end": 2009
+      },
+      {
+        "name": "Barcelona",
+        "start": 2009,
+        "end": 2010
+      },
+      {
+        "name": "AC Milan",
+        "start": 2010,
+        "end": 2012
+      },
+      {
+        "name": "PSG",
+        "start": 2012,
+        "end": 2016
+      },
+      {
+        "name": "Manchester United",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "LA Galaxy",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "AC Milan",
+        "start": 2019,
+        "end": 2023
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Eden Hazard",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 90,
+    "nationality": "Belgium",
+    "nationalTeam": "Belgium",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Lille",
+        "start": 2007,
+        "end": 2012
+      },
+      {
+        "name": "Chelsea",
+        "start": 2012,
+        "end": 2019
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2023
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Harry Kane",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 90,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2011,
+        "end": 2023
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Vinicius Junior",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 91,
+    "skill": 92,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Flamengo",
+        "start": 2017,
+        "end": 2018
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2018,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Gabriel Batistuta",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 90,
+    "skill": 89,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 1991,
+      "end": 2002
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 1988,
+        "end": 1990
+      },
+      {
+        "name": "Boca Juniors",
+        "start": 1990,
+        "end": 1991
+      },
+      {
+        "name": "Fiorentina",
+        "start": 1991,
+        "end": 2000
+      },
+      {
+        "name": "Roma",
+        "start": 2000,
+        "end": 2003
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Peter Schmeichel",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 90,
+    "nationality": "Denmark",
+    "nationalTeam": "Denmark",
+    "nationalYears": {
+      "start": 1987,
+      "end": 2001
+    },
+    "clubs": [
+      {
+        "name": "Brondby",
+        "start": 1984,
+        "end": 1991
+      },
+      {
+        "name": "Manchester United",
+        "start": 1991,
+        "end": 1999
+      },
+      {
+        "name": "Sporting CP",
+        "start": 1999,
+        "end": 2001
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2001,
+        "end": 2002
+      },
+      {
+        "name": "Manchester City",
+        "start": 2002,
+        "end": 2003
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Oliver Kahn",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 90,
+    "skill": 91,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 1995,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Karlsruher SC",
+        "start": 1987,
+        "end": 1994
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 1994,
+        "end": 2008
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Edwin van der Sar",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1995,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1990,
+        "end": 1999
+      },
+      {
+        "name": "Juventus",
+        "start": 1999,
+        "end": 2001
+      },
+      {
+        "name": "Fulham",
+        "start": 2001,
+        "end": 2005
+      },
+      {
+        "name": "Manchester United",
+        "start": 2005,
+        "end": 2011
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "David De Gea",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Atletico Madrid",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Manchester United",
+        "start": 2011,
+        "end": 2023
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ederson",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Gianluigi Donnarumma",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "AC Milan",
+        "start": 2015,
+        "end": 2021
+      },
+      {
+        "name": "PSG",
+        "start": 2021,
+        "end": 2025
+      },
+      {
+        "name": "Manchester City",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Keylor Navas",
+    "position": "GK",
+    "positionGroup": "GK",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Costa Rica",
+    "nationalTeam": "Costa Rica",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2014,
+        "end": 2019
+      },
+      {
+        "name": "PSG",
+        "start": 2019,
+        "end": 2023
+      },
+      {
+        "name": "Newell's Old Boys",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Ashley Cole",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2001,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 1999,
+        "end": 2006
+      },
+      {
+        "name": "Chelsea",
+        "start": 2006,
+        "end": 2014
+      },
+      {
+        "name": "AS Roma",
+        "start": 2014,
+        "end": 2016
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Patrice Evra",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 86,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2017
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 2002,
+        "end": 2006
+      },
+      {
+        "name": "Manchester United",
+        "start": 2006,
+        "end": 2014
+      },
+      {
+        "name": "Juventus",
+        "start": 2014,
+        "end": 2017
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "David Alaba",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Austria",
+    "nationalTeam": "Austria",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2010,
+        "end": 2021
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Theo Hernandez",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Atletico Madrid",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2019
+      },
+      {
+        "name": "AC Milan",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Nuno Mendes",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sporting CP",
+        "start": 2020,
+        "end": 2021
+      },
+      {
+        "name": "PSG",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ben Chilwell",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 84,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Leicester City",
+        "start": 2016,
+        "end": 2020
+      },
+      {
+        "name": "Chelsea",
+        "start": 2020,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Ferland Mendy",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 83,
+    "skill": 85,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Lyon",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Marcos Alonso",
+    "position": "LB",
+    "positionGroup": "DEF",
+    "rating": 81,
+    "skill": 82,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2012
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "Chelsea",
+        "start": 2016,
+        "end": 2023
+      },
+      {
+        "name": "Barcelona",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Dani Carvajal",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2013,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Kieran Trippier",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 83,
+    "skill": 85,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2015,
+        "end": 2019
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2019,
+        "end": 2022
+      },
+      {
+        "name": "Newcastle United",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Reece James",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 86,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Chelsea",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Thomas Meunier",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 80,
+    "skill": 81,
+    "nationality": "Belgium",
+    "nationalTeam": "Belgium",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Club Brugge",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "PSG",
+        "start": 2016,
+        "end": 2020
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2020,
+        "end": 2024
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Gary Neville",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1995,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "Manchester United",
+        "start": 1992,
+        "end": 2011
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Lilian Thuram",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1994,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 1991,
+        "end": 1996
+      },
+      {
+        "name": "Parma",
+        "start": 1996,
+        "end": 2001
+      },
+      {
+        "name": "Juventus",
+        "start": 2001,
+        "end": 2006
+      },
+      {
+        "name": "Barcelona",
+        "start": 2006,
+        "end": 2008
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Branislav Ivanovic",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 82,
+    "nationality": "Serbia",
+    "nationalTeam": "Serbia",
+    "nationalYears": {
+      "start": 2005,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Lokomotiv Moscow",
+        "start": 2006,
+        "end": 2008
+      },
+      {
+        "name": "Chelsea",
+        "start": 2008,
+        "end": 2017
+      },
+      {
+        "name": "Zenit",
+        "start": 2017,
+        "end": 2020
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Joao Cancelo",
+    "position": "RB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Valencia",
+        "start": 2014,
+        "end": 2018
+      },
+      {
+        "name": "Juventus",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Manchester City",
+        "start": 2019,
+        "end": 2023
+      },
+      {
+        "name": "Barcelona",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Jaap Stam",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 87,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1996,
+      "end": 2004
+    },
+    "clubs": [
+      {
+        "name": "PSV Eindhoven",
+        "start": 1996,
+        "end": 1998
+      },
+      {
+        "name": "Manchester United",
+        "start": 1998,
+        "end": 2001
+      },
+      {
+        "name": "Lazio",
+        "start": 2001,
+        "end": 2004
+      },
+      {
+        "name": "AC Milan",
+        "start": 2004,
+        "end": 2007
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Vincent Kompany",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 86,
+    "nationality": "Belgium",
+    "nationalTeam": "Belgium",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Anderlecht",
+        "start": 2003,
+        "end": 2006
+      },
+      {
+        "name": "Hamburger SV",
+        "start": 2006,
+        "end": 2008
+      },
+      {
+        "name": "Manchester City",
+        "start": 2008,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "John Terry",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 87,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2013
+    },
+    "clubs": [
+      {
+        "name": "Chelsea",
+        "start": 1998,
+        "end": 2017
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Nemanja Vidic",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Serbia",
+    "nationalTeam": "Serbia",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2011
+    },
+    "clubs": [
+      {
+        "name": "Spartak Moscow",
+        "start": 2004,
+        "end": 2006
+      },
+      {
+        "name": "Manchester United",
+        "start": 2006,
+        "end": 2014
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2014,
+        "end": 2015
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Giorgio Chiellini",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 88,
+    "skill": 87,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Fiorentina",
+        "start": 2002,
+        "end": 2005
+      },
+      {
+        "name": "Juventus",
+        "start": 2005,
+        "end": 2022
+      },
+      {
+        "name": "LAFC",
+        "start": 2022,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Leonardo Bonucci",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Bari",
+        "start": 2009,
+        "end": 2010
+      },
+      {
+        "name": "Juventus",
+        "start": 2010,
+        "end": 2017
+      },
+      {
+        "name": "AC Milan",
+        "start": 2017,
+        "end": 2018
+      },
+      {
+        "name": "Juventus",
+        "start": 2018,
+        "end": 2024
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "David Luiz",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2019
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Chelsea",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "name": "PSG",
+        "start": 2014,
+        "end": 2016
+      },
+      {
+        "name": "Chelsea",
+        "start": 2016,
+        "end": 2019
+      },
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2021
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Raphael Varane",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2013,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Lens",
+        "start": 2010,
+        "end": 2011
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2011,
+        "end": 2021
+      },
+      {
+        "name": "Manchester United",
+        "start": 2021,
+        "end": 2024
+      },
+      {
+        "name": "Como",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "William Saliba",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2022,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Saint-Etienne",
+        "start": 2019,
+        "end": 2020
+      },
+      {
+        "name": "Arsenal",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ruben Dias",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2017,
+        "end": 2020
+      },
+      {
+        "name": "Manchester City",
+        "start": 2020,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Eder Militao",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 86,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sao Paulo",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Porto",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Antonio Rudiger",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "VfB Stuttgart",
+        "start": 2011,
+        "end": 2015
+      },
+      {
+        "name": "AS Roma",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "Chelsea",
+        "start": 2017,
+        "end": 2022
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Dayot Upamecano",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 85,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "RB Leipzig",
+        "start": 2017,
+        "end": 2021
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ronald Koeman",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1983,
+      "end": 1994
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1979,
+        "end": 1983
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 1983,
+        "end": 1986
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 1986,
+        "end": 1989
+      },
+      {
+        "name": "Barcelona",
+        "start": 1989,
+        "end": 1995
+      },
+      {
+        "name": "Feyenoord",
+        "start": 1995,
+        "end": 1997
+      }
+    ],
+    "era": "1980s-1990s"
+  },
+  {
+    "name": "Laurent Blanc",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1989,
+      "end": 2000
+    },
+    "clubs": [
+      {
+        "name": "Montpellier",
+        "start": 1983,
+        "end": 1991
+      },
+      {
+        "name": "Napoli",
+        "start": 1991,
+        "end": 1992
+      },
+      {
+        "name": "Nimes",
+        "start": 1992,
+        "end": 1993
+      },
+      {
+        "name": "Saint-Etienne",
+        "start": 1993,
+        "end": 1994
+      },
+      {
+        "name": "Auxerre",
+        "start": 1994,
+        "end": 1996
+      },
+      {
+        "name": "Barcelona",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Marseille",
+        "start": 1997,
+        "end": 1999
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1999,
+        "end": 2000
+      },
+      {
+        "name": "Manchester United",
+        "start": 2001,
+        "end": 2003
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Marcel Desailly",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 86,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1993,
+      "end": 2004
+    },
+    "clubs": [
+      {
+        "name": "Marseille",
+        "start": 1986,
+        "end": 1992
+      },
+      {
+        "name": "AC Milan",
+        "start": 1993,
+        "end": 1998
+      },
+      {
+        "name": "Chelsea",
+        "start": 1998,
+        "end": 2004
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Matthias Sammer",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 1990,
+      "end": 1998
+    },
+    "clubs": [
+      {
+        "name": "Dynamo Dresden",
+        "start": 1985,
+        "end": 1990
+      },
+      {
+        "name": "VfB Stuttgart",
+        "start": 1990,
+        "end": 1993
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 1993,
+        "end": 1998
+      }
+    ],
+    "era": "1990s"
+  },
+  {
+    "name": "Aymeric Laporte",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Athletic Bilbao",
+        "start": 2012,
+        "end": 2018
+      },
+      {
+        "name": "Manchester City",
+        "start": 2018,
+        "end": 2023
+      },
+      {
+        "name": "Al Nassr",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Kalidou Koulibaly",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Senegal",
+    "nationalTeam": "Senegal",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Genk",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Napoli",
+        "start": 2014,
+        "end": 2022
+      },
+      {
+        "name": "Chelsea",
+        "start": 2022,
+        "end": 2023
+      },
+      {
+        "name": "Al-Hilal",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Presnel Kimpembe",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 82,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "PSG",
+        "start": 2014,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Harry Maguire",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 80,
+    "skill": 80,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Hull City",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "name": "Leicester City",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Manchester United",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Milan Skriniar",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 83,
+    "skill": 83,
+    "nationality": "Slovakia",
+    "nationalTeam": "Slovakia",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sampdoria",
+        "start": 2016,
+        "end": 2017
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2017,
+        "end": 2023
+      },
+      {
+        "name": "PSG",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Diego Godin",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Uruguay",
+    "nationalTeam": "Uruguay",
+    "nationalYears": {
+      "start": 2005,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Nacional",
+        "start": 2004,
+        "end": 2007
+      },
+      {
+        "name": "Villarreal",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2010,
+        "end": 2019
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2019,
+        "end": 2020
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Ricardo Carvalho",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 84,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2013
+    },
+    "clubs": [
+      {
+        "name": "Porto",
+        "start": 2000,
+        "end": 2004
+      },
+      {
+        "name": "Chelsea",
+        "start": 2004,
+        "end": 2010
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2015
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Per Mertesacker",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 82,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Hannover 96",
+        "start": 2000,
+        "end": 2006
+      },
+      {
+        "name": "Werder Bremen",
+        "start": 2006,
+        "end": 2011
+      },
+      {
+        "name": "Arsenal",
+        "start": 2011,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Mats Hummels",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2021
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2006,
+        "end": 2008
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2008,
+        "end": 2016
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2016,
+        "end": 2019
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2019,
+        "end": 2024
+      },
+      {
+        "name": "Roma",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Jerome Boateng",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2019
+    },
+    "clubs": [
+      {
+        "name": "Hamburger SV",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Manchester City",
+        "start": 2010,
+        "end": 2011
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2011,
+        "end": 2021
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Sami Hyypia",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 83,
+    "nationality": "Finland",
+    "nationalTeam": "Finland",
+    "nationalYears": {
+      "start": 1992,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "MyPa",
+        "start": 1990,
+        "end": 1995
+      },
+      {
+        "name": "Willem II",
+        "start": 1995,
+        "end": 1999
+      },
+      {
+        "name": "Liverpool",
+        "start": 1999,
+        "end": 2009
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2009,
+        "end": 2011
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Ledley King",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 82,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "Tottenham Hotspur",
+        "start": 1999,
+        "end": 2012
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Sol Campbell",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 84,
+    "skill": 83,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1996,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "Tottenham Hotspur",
+        "start": 1992,
+        "end": 2001
+      },
+      {
+        "name": "Arsenal",
+        "start": 2001,
+        "end": 2006
+      },
+      {
+        "name": "Portsmouth",
+        "start": 2006,
+        "end": 2009
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "William Gallas",
+    "position": "CB",
+    "positionGroup": "DEF",
+    "rating": 82,
+    "skill": 82,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2001,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "Marseille",
+        "start": 1997,
+        "end": 2001
+      },
+      {
+        "name": "Chelsea",
+        "start": 2001,
+        "end": 2006
+      },
+      {
+        "name": "Arsenal",
+        "start": 2006,
+        "end": 2010
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2010,
+        "end": 2013
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Patrick Vieira",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2009
+    },
+    "clubs": [
+      {
+        "name": "Cannes",
+        "start": 1993,
+        "end": 1995
+      },
+      {
+        "name": "AC Milan",
+        "start": 1995,
+        "end": 1996
+      },
+      {
+        "name": "Arsenal",
+        "start": 1996,
+        "end": 2005
+      },
+      {
+        "name": "Juventus",
+        "start": 2005,
+        "end": 2006
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2006,
+        "end": 2010
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Roy Keane",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 88,
+    "skill": 87,
+    "nationality": "Ireland",
+    "nationalTeam": "Ireland",
+    "nationalYears": {
+      "start": 1991,
+      "end": 2005
+    },
+    "clubs": [
+      {
+        "name": "Nottingham Forest",
+        "start": 1990,
+        "end": 1993
+      },
+      {
+        "name": "Manchester United",
+        "start": 1993,
+        "end": 2005
+      },
+      {
+        "name": "Celtic",
+        "start": 2005,
+        "end": 2006
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Steven Gerrard",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2000,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Liverpool",
+        "start": 1998,
+        "end": 2015
+      },
+      {
+        "name": "LA Galaxy",
+        "start": 2015,
+        "end": 2016
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Frank Lampard",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1999,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "West Ham United",
+        "start": 1995,
+        "end": 2001
+      },
+      {
+        "name": "Chelsea",
+        "start": 2001,
+        "end": 2014
+      },
+      {
+        "name": "Manchester City",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "New York City FC",
+        "start": 2015,
+        "end": 2016
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Paul Scholes",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 88,
+    "skill": 90,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2004
+    },
+    "clubs": [
+      {
+        "name": "Manchester United",
+        "start": 1993,
+        "end": 2013
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Michael Essien",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Ghana",
+    "nationalTeam": "Ghana",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Lyon",
+        "start": 2003,
+        "end": 2005
+      },
+      {
+        "name": "Chelsea",
+        "start": 2005,
+        "end": 2014
+      },
+      {
+        "name": "AC Milan",
+        "start": 2014,
+        "end": 2015
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Yaya Toure",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Ivory Coast",
+    "nationalTeam": "Ivory Coast",
+    "nationalYears": {
+      "start": 2004,
+      "end": 2016
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Manchester City",
+        "start": 2010,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Fernandinho",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2019
+    },
+    "clubs": [
+      {
+        "name": "Shakhtar Donetsk",
+        "start": 2005,
+        "end": 2013
+      },
+      {
+        "name": "Manchester City",
+        "start": 2013,
+        "end": 2022
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Thiago Alcantara",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2013,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2013,
+        "end": 2020
+      },
+      {
+        "name": "Liverpool",
+        "start": 2020,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Marco Verratti",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2012,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Pescara",
+        "start": 2010,
+        "end": 2012
+      },
+      {
+        "name": "PSG",
+        "start": 2012,
+        "end": 2023
+      },
+      {
+        "name": "Al-Arabi",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Declan Rice",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "West Ham United",
+        "start": 2017,
+        "end": 2023
+      },
+      {
+        "name": "Arsenal",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Aurelien Tchouameni",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 85,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Eduardo Camavinga",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 83,
+    "skill": 85,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2020,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Rennes",
+        "start": 2019,
+        "end": 2021
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Ilkay Gundogan",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Borussia Dortmund",
+        "start": 2011,
+        "end": 2016
+      },
+      {
+        "name": "Manchester City",
+        "start": 2016,
+        "end": 2023
+      },
+      {
+        "name": "Barcelona",
+        "start": 2023,
+        "end": 2024
+      },
+      {
+        "name": "Manchester City",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Granit Xhaka",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 85,
+    "nationality": "Switzerland",
+    "nationalTeam": "Switzerland",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Basel",
+        "start": 2010,
+        "end": 2012
+      },
+      {
+        "name": "Borussia Monchengladbach",
+        "start": 2012,
+        "end": 2016
+      },
+      {
+        "name": "Arsenal",
+        "start": 2016,
+        "end": 2023
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Sergej Milinkovic-Savic",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 86,
+    "nationality": "Serbia",
+    "nationalTeam": "Serbia",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Genk",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Lazio",
+        "start": 2015,
+        "end": 2023
+      },
+      {
+        "name": "Al-Hilal",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Fabinho",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2023
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Monaco",
+        "start": 2015,
+        "end": 2018
+      },
+      {
+        "name": "Liverpool",
+        "start": 2018,
+        "end": 2023
+      },
+      {
+        "name": "Al-Ittihad",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Javier Mascherano",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 2003,
+        "end": 2005
+      },
+      {
+        "name": "Liverpool",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Barcelona",
+        "start": 2010,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Claude Makelele",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 85,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1998,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Nantes",
+        "start": 1992,
+        "end": 1997
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2000,
+        "end": 2003
+      },
+      {
+        "name": "Chelsea",
+        "start": 2003,
+        "end": 2008
+      },
+      {
+        "name": "PSG",
+        "start": 2008,
+        "end": 2011
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Edgar Davids",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1994,
+      "end": 2005
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1991,
+        "end": 1996
+      },
+      {
+        "name": "AC Milan",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Juventus",
+        "start": 1997,
+        "end": 2004
+      },
+      {
+        "name": "Barcelona",
+        "start": 2004,
+        "end": 2005
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2005,
+        "end": 2006
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2005,
+        "end": 2007
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Emmanuel Petit",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1990,
+      "end": 2002
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 1988,
+        "end": 1997
+      },
+      {
+        "name": "Arsenal",
+        "start": 1997,
+        "end": 2000
+      },
+      {
+        "name": "Barcelona",
+        "start": 2000,
+        "end": 2001
+      },
+      {
+        "name": "Chelsea",
+        "start": 2001,
+        "end": 2004
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Michael Ballack",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 1999,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "Kaiserslautern",
+        "start": 1997,
+        "end": 1999
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 1999,
+        "end": 2002
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2002,
+        "end": 2006
+      },
+      {
+        "name": "Chelsea",
+        "start": 2006,
+        "end": 2010
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2010,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Thiago Motta",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 83,
+    "skill": 84,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2001,
+        "end": 2007
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2009,
+        "end": 2012
+      },
+      {
+        "name": "PSG",
+        "start": 2012,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Dunga",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 83,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1983,
+      "end": 1998
+    },
+    "clubs": [
+      {
+        "name": "Corinthians",
+        "start": 1981,
+        "end": 1984
+      },
+      {
+        "name": "Santos",
+        "start": 1984,
+        "end": 1987
+      },
+      {
+        "name": "Vasco da Gama",
+        "start": 1987,
+        "end": 1989
+      },
+      {
+        "name": "Pisa",
+        "start": 1989,
+        "end": 1991
+      },
+      {
+        "name": "Fiorentina",
+        "start": 1991,
+        "end": 1993
+      },
+      {
+        "name": "VfB Stuttgart",
+        "start": 1993,
+        "end": 1995
+      },
+      {
+        "name": "Jubilo Iwata",
+        "start": 1995,
+        "end": 1999
+      }
+    ],
+    "era": "1980s-1990s"
+  },
+  {
+    "name": "Didier Deschamps",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 83,
+    "skill": 82,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1989,
+      "end": 2000
+    },
+    "clubs": [
+      {
+        "name": "Nantes",
+        "start": 1985,
+        "end": 1989
+      },
+      {
+        "name": "Marseille",
+        "start": 1989,
+        "end": 1994
+      },
+      {
+        "name": "Juventus",
+        "start": 1994,
+        "end": 1999
+      },
+      {
+        "name": "Chelsea",
+        "start": 1999,
+        "end": 2000
+      },
+      {
+        "name": "Valencia",
+        "start": 2000,
+        "end": 2001
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Clarence Seedorf",
+    "position": "CM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1994,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1992,
+        "end": 1995
+      },
+      {
+        "name": "Sampdoria",
+        "start": 1995,
+        "end": 1996
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1996,
+        "end": 1999
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1999,
+        "end": 2002
+      },
+      {
+        "name": "AC Milan",
+        "start": 2002,
+        "end": 2012
+      },
+      {
+        "name": "Botafogo",
+        "start": 2012,
+        "end": 2014
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Xabi Alonso",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Real Sociedad",
+        "start": 1999,
+        "end": 2004
+      },
+      {
+        "name": "Liverpool",
+        "start": 2004,
+        "end": 2009
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2009,
+        "end": 2014
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2014,
+        "end": 2017
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Joshua Kimmich",
+    "position": "CDM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "RB Leipzig",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2015,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Martin Odegaard",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "Norway",
+    "nationalTeam": "Norway",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Stromsgodset",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2015,
+        "end": 2021
+      },
+      {
+        "name": "Arsenal",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Wesley Sneijder",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2015
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2002,
+        "end": 2007
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2007,
+        "end": 2009
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2013,
+        "end": 2017
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "David Silva",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2020
+    },
+    "clubs": [
+      {
+        "name": "Valencia",
+        "start": 2004,
+        "end": 2010
+      },
+      {
+        "name": "Manchester City",
+        "start": 2010,
+        "end": 2020
+      },
+      {
+        "name": "Real Sociedad",
+        "start": 2020,
+        "end": 2023
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Juan Roman Riquelme",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 90,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Boca Juniors",
+        "start": 1996,
+        "end": 2002
+      },
+      {
+        "name": "Barcelona",
+        "start": 2002,
+        "end": 2003
+      },
+      {
+        "name": "Villarreal",
+        "start": 2003,
+        "end": 2007
+      },
+      {
+        "name": "Boca Juniors",
+        "start": 2007,
+        "end": 2013
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Pablo Aimar",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 88,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 1999,
+      "end": 2010
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 1997,
+        "end": 2001
+      },
+      {
+        "name": "Valencia",
+        "start": 2001,
+        "end": 2006
+      },
+      {
+        "name": "Real Zaragoza",
+        "start": 2006,
+        "end": 2008
+      },
+      {
+        "name": "Benfica",
+        "start": 2008,
+        "end": 2013
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Gheorghe Hagi",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Romania",
+    "nationalTeam": "Romania",
+    "nationalYears": {
+      "start": 1983,
+      "end": 2000
+    },
+    "clubs": [
+      {
+        "name": "Steaua Bucuresti",
+        "start": 1987,
+        "end": 1990
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1990,
+        "end": 1992
+      },
+      {
+        "name": "Brescia",
+        "start": 1992,
+        "end": 1994
+      },
+      {
+        "name": "Barcelona",
+        "start": 1994,
+        "end": 1996
+      },
+      {
+        "name": "Galatasaray",
+        "start": 1996,
+        "end": 2001
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "James Rodriguez",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Colombia",
+    "nationalTeam": "Colombia",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Porto",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Monaco",
+        "start": 2013,
+        "end": 2014
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2014,
+        "end": 2020
+      },
+      {
+        "name": "Everton",
+        "start": 2020,
+        "end": 2021
+      },
+      {
+        "name": "Sao Paulo",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Isco",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 87,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2012,
+      "end": 2023
+    },
+    "clubs": [
+      {
+        "name": "Malaga",
+        "start": 2011,
+        "end": 2013
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2013,
+        "end": 2022
+      },
+      {
+        "name": "Sevilla",
+        "start": 2022,
+        "end": 2023
+      },
+      {
+        "name": "Real Betis",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Philippe Coutinho",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 87,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Inter Milan",
+        "start": 2008,
+        "end": 2013
+      },
+      {
+        "name": "Liverpool",
+        "start": 2013,
+        "end": 2018
+      },
+      {
+        "name": "Barcelona",
+        "start": 2018,
+        "end": 2022
+      },
+      {
+        "name": "Aston Villa",
+        "start": 2022,
+        "end": 2023
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Christian Eriksen",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Denmark",
+    "nationalTeam": "Denmark",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2013,
+        "end": 2020
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Manchester United",
+        "start": 2022,
+        "end": 2024
+      },
+      {
+        "name": "West Ham United",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Mario Gotze",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 86,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2021
+    },
+    "clubs": [
+      {
+        "name": "Borussia Dortmund",
+        "start": 2009,
+        "end": 2013
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2016,
+        "end": 2020
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 2020,
+        "end": 2022
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Marco Reus",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2011,
+      "end": 2023
+    },
+    "clubs": [
+      {
+        "name": "Borussia Monchengladbach",
+        "start": 2009,
+        "end": 2012
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2012,
+        "end": 2024
+      },
+      {
+        "name": "LA Galaxy",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Rui Costa",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 89,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 1993,
+      "end": 2004
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 1990,
+        "end": 1994
+      },
+      {
+        "name": "Fiorentina",
+        "start": 1994,
+        "end": 2001
+      },
+      {
+        "name": "AC Milan",
+        "start": 2001,
+        "end": 2006
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Ryan Giggs",
+    "position": "LM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Wales",
+    "nationalTeam": "Wales",
+    "nationalYears": {
+      "start": 1991,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "Manchester United",
+        "start": 1990,
+        "end": 2014
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "David Beckham",
+    "position": "RM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1996,
+      "end": 2009
+    },
+    "clubs": [
+      {
+        "name": "Manchester United",
+        "start": 1992,
+        "end": 2003
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2003,
+        "end": 2007
+      },
+      {
+        "name": "LA Galaxy",
+        "start": 2007,
+        "end": 2012
+      },
+      {
+        "name": "AC Milan",
+        "start": 2009,
+        "end": 2010
+      },
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2013,
+        "end": 2013
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Robert Pires",
+    "position": "LM",
+    "positionGroup": "MID",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 1996,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Metz",
+        "start": 1993,
+        "end": 1998
+      },
+      {
+        "name": "Marseille",
+        "start": 1998,
+        "end": 2000
+      },
+      {
+        "name": "Arsenal",
+        "start": 2000,
+        "end": 2006
+      },
+      {
+        "name": "Villarreal",
+        "start": 2006,
+        "end": 2010
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Jay-Jay Okocha",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 85,
+    "skill": 89,
+    "nationality": "Nigeria",
+    "nationalTeam": "Nigeria",
+    "nationalYears": {
+      "start": 1993,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Eintracht Frankfurt",
+        "start": 1992,
+        "end": 1996
+      },
+      {
+        "name": "Fenerbahce",
+        "start": 1996,
+        "end": 1998
+      },
+      {
+        "name": "PSG",
+        "start": 1998,
+        "end": 2002
+      },
+      {
+        "name": "Bolton Wanderers",
+        "start": 2002,
+        "end": 2006
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Luis Figo",
+    "position": "RM",
+    "positionGroup": "MID",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 1991,
+      "end": 2006
+    },
+    "clubs": [
+      {
+        "name": "Sporting CP",
+        "start": 1989,
+        "end": 1995
+      },
+      {
+        "name": "Barcelona",
+        "start": 1995,
+        "end": 2000
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2000,
+        "end": 2005
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2005,
+        "end": 2009
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Xherdan Shaqiri",
+    "position": "RM",
+    "positionGroup": "MID",
+    "rating": 82,
+    "skill": 84,
+    "nationality": "Switzerland",
+    "nationalTeam": "Switzerland",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Basel",
+        "start": 2008,
+        "end": 2012
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2012,
+        "end": 2015
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2015,
+        "end": 2015
+      },
+      {
+        "name": "Stoke City",
+        "start": 2015,
+        "end": 2018
+      },
+      {
+        "name": "Liverpool",
+        "start": 2018,
+        "end": 2021
+      },
+      {
+        "name": "Lyon",
+        "start": 2021,
+        "end": 2022
+      },
+      {
+        "name": "Chicago Fire",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Riyad Mahrez",
+    "position": "RM",
+    "positionGroup": "MID",
+    "rating": 84,
+    "skill": 86,
+    "nationality": "Algeria",
+    "nationalTeam": "Algeria",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Le Havre",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "name": "Leicester City",
+        "start": 2014,
+        "end": 2018
+      },
+      {
+        "name": "Manchester City",
+        "start": 2018,
+        "end": 2023
+      },
+      {
+        "name": "Al-Ahli",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Bernardo Silva",
+    "position": "RM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Benfica",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Monaco",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Florian Wirtz",
+    "position": "CAM",
+    "positionGroup": "MID",
+    "rating": 87,
+    "skill": 89,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2020,
+        "end": 2025
+      },
+      {
+        "name": "Liverpool",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Alan Shearer",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 88,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1992,
+      "end": 2000
+    },
+    "clubs": [
+      {
+        "name": "Southampton",
+        "start": 1988,
+        "end": 1992
+      },
+      {
+        "name": "Blackburn Rovers",
+        "start": 1992,
+        "end": 1996
+      },
+      {
+        "name": "Newcastle United",
+        "start": 1996,
+        "end": 2006
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Ruud van Nistelrooy",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1998,
+      "end": 2011
+    },
+    "clubs": [
+      {
+        "name": "Heerenveen",
+        "start": 1997,
+        "end": 1998
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 1998,
+        "end": 2001
+      },
+      {
+        "name": "Manchester United",
+        "start": 2001,
+        "end": 2006
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2006,
+        "end": 2010
+      },
+      {
+        "name": "Hamburger SV",
+        "start": 2010,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Didier Drogba",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Ivory Coast",
+    "nationalTeam": "Ivory Coast",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Le Mans",
+        "start": 1998,
+        "end": 2002
+      },
+      {
+        "name": "Guingamp",
+        "start": 2002,
+        "end": 2003
+      },
+      {
+        "name": "Marseille",
+        "start": 2003,
+        "end": 2004
+      },
+      {
+        "name": "Chelsea",
+        "start": 2004,
+        "end": 2012
+      },
+      {
+        "name": "Shanghai Shenhua",
+        "start": 2012,
+        "end": 2013
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2013,
+        "end": 2014
+      },
+      {
+        "name": "Chelsea",
+        "start": 2014,
+        "end": 2015
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Fernando Torres",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Atletico Madrid",
+        "start": 2001,
+        "end": 2007
+      },
+      {
+        "name": "Liverpool",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Chelsea",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "name": "AC Milan",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2015,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "David Villa",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 88,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2005,
+      "end": 2017
+    },
+    "clubs": [
+      {
+        "name": "Sporting Gijon",
+        "start": 2001,
+        "end": 2003
+      },
+      {
+        "name": "Valencia",
+        "start": 2003,
+        "end": 2010
+      },
+      {
+        "name": "Barcelona",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2013,
+        "end": 2014
+      },
+      {
+        "name": "New York City FC",
+        "start": 2014,
+        "end": 2018
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Diego Costa",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2013,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Atletico Madrid",
+        "start": 2007,
+        "end": 2014
+      },
+      {
+        "name": "Chelsea",
+        "start": 2014,
+        "end": 2017
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2017,
+        "end": 2021
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Gonzalo Higuain",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2009,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 2005,
+        "end": 2007
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2007,
+        "end": 2013
+      },
+      {
+        "name": "Napoli",
+        "start": 2013,
+        "end": 2016
+      },
+      {
+        "name": "Juventus",
+        "start": 2016,
+        "end": 2020
+      },
+      {
+        "name": "Inter Miami",
+        "start": 2020,
+        "end": 2022
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Mario Mandzukic",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 84,
+    "nationality": "Croatia",
+    "nationalTeam": "Croatia",
+    "nationalYears": {
+      "start": 2007,
+      "end": 2019
+    },
+    "clubs": [
+      {
+        "name": "Dinamo Zagreb",
+        "start": 2005,
+        "end": 2010
+      },
+      {
+        "name": "Wolfsburg",
+        "start": 2010,
+        "end": 2012
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Juventus",
+        "start": 2015,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Edinson Cavani",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Uruguay",
+    "nationalTeam": "Uruguay",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Palermo",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Napoli",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "PSG",
+        "start": 2013,
+        "end": 2020
+      },
+      {
+        "name": "Manchester United",
+        "start": 2020,
+        "end": 2022
+      },
+      {
+        "name": "Valencia",
+        "start": 2022,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Sergio Aguero",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2021
+    },
+    "clubs": [
+      {
+        "name": "Independiente",
+        "start": 2003,
+        "end": 2006
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2006,
+        "end": 2011
+      },
+      {
+        "name": "Manchester City",
+        "start": 2011,
+        "end": 2021
+      },
+      {
+        "name": "Barcelona",
+        "start": 2021,
+        "end": 2021
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Radamel Falcao",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Colombia",
+    "nationalTeam": "Colombia",
+    "nationalYears": {
+      "start": 2007,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 2005,
+        "end": 2009
+      },
+      {
+        "name": "Porto",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2011,
+        "end": 2013
+      },
+      {
+        "name": "Monaco",
+        "start": 2013,
+        "end": 2019
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2019,
+        "end": 2022
+      },
+      {
+        "name": "Rayo Vallecano",
+        "start": 2022,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Diego Forlan",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Uruguay",
+    "nationalTeam": "Uruguay",
+    "nationalYears": {
+      "start": 2002,
+      "end": 2015
+    },
+    "clubs": [
+      {
+        "name": "Independiente",
+        "start": 1998,
+        "end": 2002
+      },
+      {
+        "name": "Manchester United",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Villarreal",
+        "start": 2004,
+        "end": 2007
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2011,
+        "end": 2012
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Samuel Eto'o",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 89,
+    "nationality": "Cameroon",
+    "nationalTeam": "Cameroon",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 1997,
+        "end": 2000
+      },
+      {
+        "name": "Mallorca",
+        "start": 2000,
+        "end": 2004
+      },
+      {
+        "name": "Barcelona",
+        "start": 2004,
+        "end": 2009
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Chelsea",
+        "start": 2013,
+        "end": 2014
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Michael Owen",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 1998,
+      "end": 2008
+    },
+    "clubs": [
+      {
+        "name": "Liverpool",
+        "start": 1996,
+        "end": 2004
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2004,
+        "end": 2005
+      },
+      {
+        "name": "Newcastle United",
+        "start": 2005,
+        "end": 2009
+      },
+      {
+        "name": "Manchester United",
+        "start": 2009,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Wayne Rooney",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2018
+    },
+    "clubs": [
+      {
+        "name": "Everton",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Manchester United",
+        "start": 2004,
+        "end": 2017
+      },
+      {
+        "name": "Everton",
+        "start": 2017,
+        "end": 2018
+      },
+      {
+        "name": "DC United",
+        "start": 2018,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Andriy Shevchenko",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 88,
+    "nationality": "Ukraine",
+    "nationalTeam": "Ukraine",
+    "nationalYears": {
+      "start": 1995,
+      "end": 2012
+    },
+    "clubs": [
+      {
+        "name": "Dynamo Kyiv",
+        "start": 1994,
+        "end": 1999
+      },
+      {
+        "name": "AC Milan",
+        "start": 1999,
+        "end": 2006
+      },
+      {
+        "name": "Chelsea",
+        "start": 2006,
+        "end": 2009
+      },
+      {
+        "name": "AC Milan",
+        "start": 2008,
+        "end": 2009
+      },
+      {
+        "name": "Dynamo Kyiv",
+        "start": 2009,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Filippo Inzaghi",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "Parma",
+        "start": 1995,
+        "end": 1996
+      },
+      {
+        "name": "Atalanta",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Juventus",
+        "start": 1997,
+        "end": 2001
+      },
+      {
+        "name": "AC Milan",
+        "start": 2001,
+        "end": 2012
+      }
+    ],
+    "era": "1990s-2010s"
+  },
+  {
+    "name": "Fernando Morientes",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 1998,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "Real Madrid",
+        "start": 1994,
+        "end": 2003
+      },
+      {
+        "name": "Monaco",
+        "start": 2003,
+        "end": 2005
+      },
+      {
+        "name": "Liverpool",
+        "start": 2005,
+        "end": 2006
+      },
+      {
+        "name": "Valencia",
+        "start": 2006,
+        "end": 2009
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Hernan Crespo",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 1993,
+      "end": 2007
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 1993,
+        "end": 1996
+      },
+      {
+        "name": "Parma",
+        "start": 1996,
+        "end": 2000
+      },
+      {
+        "name": "Lazio",
+        "start": 2000,
+        "end": 2002
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2002,
+        "end": 2003
+      },
+      {
+        "name": "Chelsea",
+        "start": 2003,
+        "end": 2004
+      },
+      {
+        "name": "AC Milan",
+        "start": 2004,
+        "end": 2008
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2008,
+        "end": 2009
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Christian Vieri",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 86,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1997,
+      "end": 2005
+    },
+    "clubs": [
+      {
+        "name": "Juventus",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 1997,
+        "end": 1998
+      },
+      {
+        "name": "Lazio",
+        "start": 1998,
+        "end": 1999
+      },
+      {
+        "name": "Inter Milan",
+        "start": 1999,
+        "end": 2005
+      },
+      {
+        "name": "Monaco",
+        "start": 2005,
+        "end": 2006
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "Miroslav Klose",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 87,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2001,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Kaiserslautern",
+        "start": 1999,
+        "end": 2004
+      },
+      {
+        "name": "Werder Bremen",
+        "start": 2004,
+        "end": 2007
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2007,
+        "end": 2011
+      },
+      {
+        "name": "Lazio",
+        "start": 2011,
+        "end": 2016
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Romario",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 91,
+    "skill": 91,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1987,
+      "end": 2005
+    },
+    "clubs": [
+      {
+        "name": "Vasco da Gama",
+        "start": 1985,
+        "end": 1988
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 1988,
+        "end": 1993
+      },
+      {
+        "name": "Barcelona",
+        "start": 1993,
+        "end": 1995
+      },
+      {
+        "name": "Flamengo",
+        "start": 1995,
+        "end": 1996
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Rivaldo",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 1993,
+      "end": 2003
+    },
+    "clubs": [
+      {
+        "name": "Mogi Mirim",
+        "start": 1991,
+        "end": 1993
+      },
+      {
+        "name": "Deportivo La Coruna",
+        "start": 1996,
+        "end": 1997
+      },
+      {
+        "name": "Barcelona",
+        "start": 1997,
+        "end": 2002
+      },
+      {
+        "name": "AC Milan",
+        "start": 2002,
+        "end": 2003
+      }
+    ],
+    "era": "1990s-2000s"
+  },
+  {
+    "name": "George Weah",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 88,
+    "nationality": "Liberia",
+    "nationalTeam": "Liberia",
+    "nationalYears": {
+      "start": 1986,
+      "end": 2002
+    },
+    "clubs": [
+      {
+        "name": "Monaco",
+        "start": 1988,
+        "end": 1992
+      },
+      {
+        "name": "PSG",
+        "start": 1992,
+        "end": 1995
+      },
+      {
+        "name": "AC Milan",
+        "start": 1995,
+        "end": 2000
+      },
+      {
+        "name": "Chelsea",
+        "start": 2000,
+        "end": 2000
+      },
+      {
+        "name": "Manchester City",
+        "start": 2000,
+        "end": 2000
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Marco van Basten",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 91,
+    "skill": 92,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 1983,
+      "end": 1992
+    },
+    "clubs": [
+      {
+        "name": "Ajax",
+        "start": 1981,
+        "end": 1987
+      },
+      {
+        "name": "AC Milan",
+        "start": 1987,
+        "end": 1995
+      }
+    ],
+    "era": "1980s-1990s"
+  },
+  {
+    "name": "Hristo Stoichkov",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 88,
+    "nationality": "Bulgaria",
+    "nationalTeam": "Bulgaria",
+    "nationalYears": {
+      "start": 1986,
+      "end": 2003
+    },
+    "clubs": [
+      {
+        "name": "CSKA Sofia",
+        "start": 1984,
+        "end": 1990
+      },
+      {
+        "name": "Barcelona",
+        "start": 1990,
+        "end": 1995
+      },
+      {
+        "name": "Parma",
+        "start": 1995,
+        "end": 1996
+      },
+      {
+        "name": "Barcelona",
+        "start": 1996,
+        "end": 1998
+      },
+      {
+        "name": "Al Nassr",
+        "start": 1998,
+        "end": 1999
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Davor Suker",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Croatia",
+    "nationalTeam": "Croatia",
+    "nationalYears": {
+      "start": 1990,
+      "end": 2002
+    },
+    "clubs": [
+      {
+        "name": "Dinamo Zagreb",
+        "start": 1987,
+        "end": 1991
+      },
+      {
+        "name": "Sevilla",
+        "start": 1991,
+        "end": 1996
+      },
+      {
+        "name": "Real Madrid",
+        "start": 1996,
+        "end": 1999
+      },
+      {
+        "name": "Arsenal",
+        "start": 1999,
+        "end": 2000
+      },
+      {
+        "name": "West Ham United",
+        "start": 2000,
+        "end": 2001
+      }
+    ],
+    "era": "1980s-2000s"
+  },
+  {
+    "name": "Gianluca Vialli",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 85,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 1985,
+      "end": 1992
+    },
+    "clubs": [
+      {
+        "name": "Cremonese",
+        "start": 1980,
+        "end": 1984
+      },
+      {
+        "name": "Sampdoria",
+        "start": 1984,
+        "end": 1992
+      },
+      {
+        "name": "Juventus",
+        "start": 1992,
+        "end": 1996
+      },
+      {
+        "name": "Chelsea",
+        "start": 1996,
+        "end": 1999
+      }
+    ],
+    "era": "1980s-1990s"
+  },
+  {
+    "name": "Arjen Robben",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 89,
+    "skill": 90,
+    "nationality": "Netherlands",
+    "nationalTeam": "Netherlands",
+    "nationalYears": {
+      "start": 2003,
+      "end": 2017
+    },
+    "clubs": [
+      {
+        "name": "Groningen",
+        "start": 2000,
+        "end": 2002
+      },
+      {
+        "name": "PSV Eindhoven",
+        "start": 2002,
+        "end": 2004
+      },
+      {
+        "name": "Chelsea",
+        "start": 2004,
+        "end": 2007
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2007,
+        "end": 2009
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2009,
+        "end": 2019
+      }
+    ],
+    "era": "2000s-2010s"
+  },
+  {
+    "name": "Franck Ribery",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 90,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2014
+    },
+    "clubs": [
+      {
+        "name": "Metz",
+        "start": 2000,
+        "end": 2001
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2005,
+        "end": 2005
+      },
+      {
+        "name": "Marseille",
+        "start": 2005,
+        "end": 2007
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2007,
+        "end": 2019
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2019,
+        "end": 2021
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Angel Di Maria",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2008,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Rosario Central",
+        "start": 2005,
+        "end": 2007
+      },
+      {
+        "name": "Benfica",
+        "start": 2007,
+        "end": 2010
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2010,
+        "end": 2014
+      },
+      {
+        "name": "Manchester United",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "PSG",
+        "start": 2015,
+        "end": 2022
+      },
+      {
+        "name": "Juventus",
+        "start": 2022,
+        "end": 2023
+      },
+      {
+        "name": "Benfica",
+        "start": 2023,
+        "end": 2024
+      },
+      {
+        "name": "Rosario Central",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Son Heung-min",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "South Korea",
+    "nationalTeam": "South Korea",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Hamburger SV",
+        "start": 2010,
+        "end": 2013
+      },
+      {
+        "name": "Bayer Leverkusen",
+        "start": 2013,
+        "end": 2015
+      },
+      {
+        "name": "Tottenham Hotspur",
+        "start": 2015,
+        "end": 2025
+      },
+      {
+        "name": "LAFC",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Sadio Mane",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "Senegal",
+    "nationalTeam": "Senegal",
+    "nationalYears": {
+      "start": 2012,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Metz",
+        "start": 2011,
+        "end": 2012
+      },
+      {
+        "name": "Salzburg",
+        "start": 2012,
+        "end": 2014
+      },
+      {
+        "name": "Southampton",
+        "start": 2014,
+        "end": 2016
+      },
+      {
+        "name": "Liverpool",
+        "start": 2016,
+        "end": 2022
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2022,
+        "end": 2023
+      },
+      {
+        "name": "Al-Nassr",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Raheem Sterling",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 84,
+    "skill": 86,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2012,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Liverpool",
+        "start": 2010,
+        "end": 2015
+      },
+      {
+        "name": "Manchester City",
+        "start": 2015,
+        "end": 2022
+      },
+      {
+        "name": "Chelsea",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Antoine Griezmann",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Real Sociedad",
+        "start": 2009,
+        "end": 2014
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2014,
+        "end": 2019
+      },
+      {
+        "name": "Barcelona",
+        "start": 2019,
+        "end": 2021
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2021,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Alexis Sanchez",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Chile",
+    "nationalTeam": "Chile",
+    "nationalYears": {
+      "start": 2006,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Udinese",
+        "start": 2008,
+        "end": 2011
+      },
+      {
+        "name": "Barcelona",
+        "start": 2011,
+        "end": 2014
+      },
+      {
+        "name": "Arsenal",
+        "start": 2014,
+        "end": 2018
+      },
+      {
+        "name": "Manchester United",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Inter Milan",
+        "start": 2019,
+        "end": 2022
+      },
+      {
+        "name": "Udinese",
+        "start": 2023,
+        "end": 2024
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Ousmane Dembele",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 88,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Rennes",
+        "start": 2015,
+        "end": 2016
+      },
+      {
+        "name": "Borussia Dortmund",
+        "start": 2016,
+        "end": 2017
+      },
+      {
+        "name": "Barcelona",
+        "start": 2017,
+        "end": 2023
+      },
+      {
+        "name": "PSG",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s",
+    "current2026": true
+  },
+  {
+    "name": "Rafael Leao",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Portugal",
+    "nationalTeam": "Portugal",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Sporting CP",
+        "start": 2017,
+        "end": 2018
+      },
+      {
+        "name": "Lille",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "AC Milan",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Kingsley Coman",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "France",
+    "nationalTeam": "France",
+    "nationalYears": {
+      "start": 2015,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Paris Saint-Germain",
+        "start": 2013,
+        "end": 2014
+      },
+      {
+        "name": "Juventus",
+        "start": 2014,
+        "end": 2015
+      },
+      {
+        "name": "Bayern Munich",
+        "start": 2015,
+        "end": 2025
+      },
+      {
+        "name": "Al-Nassr",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  },
+  {
+    "name": "Federico Chiesa",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 84,
+    "skill": 86,
+    "nationality": "Italy",
+    "nationalTeam": "Italy",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Fiorentina",
+        "start": 2016,
+        "end": 2020
+      },
+      {
+        "name": "Juventus",
+        "start": 2020,
+        "end": 2024
+      },
+      {
+        "name": "Liverpool",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2020s"
+  },
+  {
+    "name": "Bukayo Saka",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2020,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Arsenal",
+        "start": 2018,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Phil Foden",
+    "position": "LW",
+    "positionGroup": "FWD",
+    "rating": 87,
+    "skill": 88,
+    "nationality": "England",
+    "nationalTeam": "England",
+    "nationalYears": {
+      "start": 2020,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Rodrygo",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 85,
+    "skill": 87,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2019,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Santos",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Real Madrid",
+        "start": 2019,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Lamine Yamal",
+    "position": "RW",
+    "positionGroup": "FWD",
+    "rating": 88,
+    "skill": 89,
+    "nationality": "Spain",
+    "nationalTeam": "Spain",
+    "nationalYears": {
+      "start": 2023,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Barcelona",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Julian Alvarez",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Argentina",
+    "nationalTeam": "Argentina",
+    "nationalYears": {
+      "start": 2021,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "River Plate",
+        "start": 2018,
+        "end": 2022
+      },
+      {
+        "name": "Manchester City",
+        "start": 2022,
+        "end": 2024
+      },
+      {
+        "name": "Atletico Madrid",
+        "start": 2024,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Victor Osimhen",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 86,
+    "nationality": "Nigeria",
+    "nationalTeam": "Nigeria",
+    "nationalYears": {
+      "start": 2017,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Wolfsburg",
+        "start": 2017,
+        "end": 2019
+      },
+      {
+        "name": "Lille",
+        "start": 2019,
+        "end": 2020
+      },
+      {
+        "name": "Napoli",
+        "start": 2020,
+        "end": 2025
+      },
+      {
+        "name": "Galatasaray",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Gabriel Jesus",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 84,
+    "skill": 85,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2016,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Palmeiras",
+        "start": 2015,
+        "end": 2017
+      },
+      {
+        "name": "Manchester City",
+        "start": 2017,
+        "end": 2022
+      },
+      {
+        "name": "Arsenal",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Darwin Nunez",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 83,
+    "skill": 84,
+    "nationality": "Uruguay",
+    "nationalTeam": "Uruguay",
+    "nationalYears": {
+      "start": 2020,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Penarol",
+        "start": 2018,
+        "end": 2019
+      },
+      {
+        "name": "Almeria",
+        "start": 2019,
+        "end": 2021
+      },
+      {
+        "name": "Benfica",
+        "start": 2021,
+        "end": 2022
+      },
+      {
+        "name": "Liverpool",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Dusan Vlahovic",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 84,
+    "skill": 84,
+    "nationality": "Serbia",
+    "nationalTeam": "Serbia",
+    "nationalYears": {
+      "start": 2018,
+      "end": 2026
+    },
+    "clubs": [
+      {
+        "name": "Partizan",
+        "start": 2016,
+        "end": 2018
+      },
+      {
+        "name": "Fiorentina",
+        "start": 2018,
+        "end": 2022
+      },
+      {
+        "name": "Juventus",
+        "start": 2022,
+        "end": 2026
+      }
+    ],
+    "era": "2020s",
+    "current2026": true
+  },
+  {
+    "name": "Thomas Muller",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 86,
+    "skill": 87,
+    "nationality": "Germany",
+    "nationalTeam": "Germany",
+    "nationalYears": {
+      "start": 2010,
+      "end": 2024
+    },
+    "clubs": [
+      {
+        "name": "Bayern Munich",
+        "start": 2008,
+        "end": 2024
+      },
+      {
+        "name": "Vancouver Whitecaps",
+        "start": 2025,
+        "end": 2026
+      }
+    ],
+    "era": "2000s-2020s"
+  },
+  {
+    "name": "Roberto Firmino",
+    "position": "ST",
+    "positionGroup": "FWD",
+    "rating": 84,
+    "skill": 85,
+    "nationality": "Brazil",
+    "nationalTeam": "Brazil",
+    "nationalYears": {
+      "start": 2014,
+      "end": 2022
+    },
+    "clubs": [
+      {
+        "name": "Figueirense",
+        "start": 2009,
+        "end": 2011
+      },
+      {
+        "name": "Hoffenheim",
+        "start": 2011,
+        "end": 2015
+      },
+      {
+        "name": "Liverpool",
+        "start": 2015,
+        "end": 2023
+      },
+      {
+        "name": "Al-Ahli",
+        "start": 2023,
+        "end": 2026
+      }
+    ],
+    "era": "2010s-2020s"
+  }
+]

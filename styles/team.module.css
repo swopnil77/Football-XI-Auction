@@ -1,0 +1,132 @@
+.page {
+  min-height: 100vh;
+  max-width: 780px;
+  margin: 0 auto;
+  padding: var(--space-5) var(--space-4);
+}
+
+.headerRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+.teamSelect {
+  background: var(--color-bg-elevated);
+  border: var(--line);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2) var(--space-3);
+  color: var(--color-chalk);
+  font-family: var(--font-display);
+}
+
+.chemistryCard {
+  background: var(--color-bg-card);
+  border: var(--line);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  margin-bottom: var(--space-4);
+  display: flex;
+  align-items: center;
+  gap: var(--space-4);
+}
+
+.chemistryScore {
+  font-family: var(--font-display);
+  font-size: var(--fs-scoreboard);
+  color: var(--color-gold-bright);
+  line-height: 1;
+}
+
+.chemistryBarTrack {
+  flex: 1;
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(244, 241, 232, 0.08);
+  overflow: hidden;
+}
+
+.chemistryBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--color-pitch-line), var(--color-gold));
+  border-radius: 999px;
+  transition: width 0.4s ease;
+}
+
+.pitch {
+  background: radial-gradient(ellipse at center, rgba(31, 77, 52, 0.55), rgba(11, 20, 16, 0.9));
+  border: 1px solid var(--color-pitch-line);
+  border-radius: var(--radius-md);
+  padding: var(--space-4);
+  display: grid;
+  gap: var(--space-2);
+}
+
+.pitchRow {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-2);
+  flex-wrap: wrap;
+}
+
+.slot {
+  min-width: 84px;
+  background: var(--color-bg-card);
+  border: 1px solid rgba(244, 241, 232, 0.12);
+  border-radius: var(--radius-sm);
+  padding: var(--space-2);
+  text-align: center;
+}
+
+.slotEmpty {
+  composes: slot;
+  border-style: dashed;
+  color: var(--color-muted-dim);
+}
+
+.slotLabel {
+  font-size: 0.7rem;
+  color: var(--color-muted);
+  letter-spacing: 0.04em;
+}
+
+.slotName {
+  font-family: var(--font-display);
+  font-size: 0.85rem;
+}
+
+.managerRow {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-3);
+}
+
+.breakdown {
+  margin-top: var(--space-4);
+}
+
+.breakdownRow {
+  display: flex;
+  justify-content: space-between;
+  padding: var(--space-2) 0;
+  border-bottom: var(--line);
+  font-size: var(--fs-small);
+  color: var(--color-muted);
+}
+
+.breakdownPositive {
+  color: var(--color-success);
+}
+
+.breakdownNegative {
+  color: var(--color-danger);
+}
+
+.emptyState {
+  text-align: center;
+  color: var(--color-muted);
+  padding: var(--space-5) 0;
+}

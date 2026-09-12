@@ -1,0 +1,52 @@
+/*
+  Design direction: "Matchday under lights"
+  A night-match / auction-house feel — deep pitch-dark backgrounds, floodlight-white
+  text, brass/gold for money & prestige (trophies, transfer fees), a muted brick-red
+  reserved only for live/urgent states (countdown, live bidding).
+
+  Type: Oswald (condensed, athletic — scoreboards, shirt numbers, headlines)
+  paired with Work Sans (clean humanist sans for body copy & UI text).
+  These are deliberately NOT Inter+serif or a single do-everything grotesque.
+*/
+
+:root {
+  /* Color */
+  --color-bg: #0b1410;
+  --color-bg-elevated: #131f19;
+  --color-bg-card: #182821;
+  --color-pitch: #1f4d34;
+  --color-pitch-line: #2c6b47;
+
+  --color-gold: #c9a227;
+  --color-gold-bright: #e6c158;
+  --color-chalk: #f4f1e8;
+  --color-muted: #8fa396;
+  --color-muted-dim: #5c6f65;
+
+  --color-danger: #c1443c;
+  --color-success: #4d9a6a;
+
+  /* Type */
+  --font-display: 'Oswald', 'Arial Narrow', sans-serif;
+  --font-body: 'Work Sans', -apple-system, sans-serif;
+
+  --fs-scoreboard: clamp(2.5rem, 6vw, 4.5rem);
+  --fs-h1: clamp(1.8rem, 3.4vw, 2.6rem);
+  --fs-h2: 1.5rem;
+  --fs-h3: 1.15rem;
+  --fs-body: 1rem;
+  --fs-small: 0.85rem;
+
+  /* Space */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 16px;
+  --space-4: 24px;
+  --space-5: 40px;
+  --space-6: 64px;
+
+  /* Shape */
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --line: 1px solid rgba(244, 241, 232, 0.1);
+}
