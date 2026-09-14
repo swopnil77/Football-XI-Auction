@@ -27,7 +27,7 @@ keeps a process running continuously. Any of these work well for a project this 
 - **[Railway](https://railway.app)** — usage-based, small free credit monthly, no spin-down.
 - **[Fly.io](https://fly.io)** — free small VM allowance, no spin-down.
 
-## Deploy to Render (recommended, easiest)
+## Deploy to Render
 
 1. Push this repo to GitHub (you've already got that part done).
 2. Render dashboard → New → Background Worker → connect your repo.
@@ -39,6 +39,21 @@ keeps a process running continuously. Any of these work well for a project this 
    - `SUPABASE_SERVICE_ROLE_KEY` — from Supabase → Project Settings → API
 7. Deploy. Check the logs — you should see `[engine] Iconic XI auction engine starting…`
    and `[engine] health check listening on :<port>` within a few seconds.
+
+## Deploy to Railway (alternative — genuinely free for a service this light)
+
+1. Railway dashboard → New Project → Deploy from GitHub repo → pick this repo.
+2. **This is the step people miss**: open the new service → Settings → set **Root Directory**
+   to `server`. Skip this and Railway builds the whole monorepo from its root — which means
+   it tries to build the Next.js app instead, and fails with `supabaseUrl is required`
+   because it's missing the frontend's `NEXT_PUBLIC_*` variables. That error is a sign this
+   step got missed, not a real problem with the engine.
+3. Variables tab → add `SUPABASE_URL` and `SUPABASE_SERVICE_ROLE_KEY` (same values as
+   `server/.env`). Don't add any `NEXT_PUBLIC_*` variables here — those belong to the
+   frontend's Vercel project, not this service.
+4. Railway auto-detects the build/start commands from `server/package.json`
+   (`npm run build` then `npm start`) — no need to set them manually.
+5. Deploy, then check the logs for the same `[engine] ... starting…` line.
 
 ## Run it locally
 

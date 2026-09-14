@@ -5,8 +5,63 @@ import type { Position } from './types';
 const REVEAL_MS = 3000; // how long a "SOLD" card holds before the next lot appears
 
 export async function tick(): Promise<void> {
+  await recoverStuckRounds();
   await resolveExpiredBiddingRounds();
   await advanceRevealedRounds();
+}
+
+const STUCK_AFTER_MS = 15000; // how long a round can sit mid-resolution before we treat it as crashed
+
+/**
+ * If a previous tick claimed a round (flipped it to 'resolving' or 'advancing') and then
+ * crashed or lost its connection before finishing, that round would otherwise be stuck
+ * forever — nothing else ever looks at those phases again. This finds any round that's
+ * been sitting mid-transition too long and either finishes the move (if the underlying
+ * work actually completed before the crash) or resets it for a clean retry (if it didn't),
+ * so we never double-charge a team or double-insert a roster row.
+ */
+async function recoverStuckRounds() {
+  const cutoff = new Date(Date.now() - STUCK_AFTER_MS).toISOString();
+  const { data: stuck, error } = await supabase
+    .from('current_auction')
+    .select('*')
+    .in('phase', ['resolving', 'advancing'])
+    .lt('updated_at', cutoff);
+
+  if (error) {
+    console.error('[engine] failed to query stuck rounds:', error.message);
+    return;
+  }
+
+  for (const current of stuck ?? []) {
+    const roomId = current.room_id;
+    const { data: queueRow } = current.queue_id
+      ? await supabase.from('auction_queue').select('status').eq('id', current.queue_id).maybeSingle()
+      : { data: null as { status: string } | null };
+
+    if (queueRow && (queueRow.status === 'sold' || queueRow.status === 'skipped')) {
+      // The actual work already completed before whatever crashed — just move the phase
+      // forward instead of redoing (and double-charging) it.
+      await supabase
+        .from('current_auction')
+        .update({
+          phase: 'sold',
+          reveal_until: new Date(Date.now() + REVEAL_MS).toISOString(),
+          updated_at: new Date().toISOString(),
+        })
+        .eq('room_id', roomId)
+        .in('phase', ['resolving', 'advancing']);
+      console.log(`[engine] room ${roomId}: recovered a stuck round (work had completed, moved to reveal)`);
+    } else {
+      // Never got resolved — safe to retry from scratch.
+      await supabase
+        .from('current_auction')
+        .update({ phase: 'bidding', ends_at: new Date().toISOString(), updated_at: new Date().toISOString() })
+        .eq('room_id', roomId)
+        .in('phase', ['resolving', 'advancing']);
+      console.log(`[engine] room ${roomId}: recovered a stuck round (retrying resolution)`);
+    }
+  }
 }
 
 /** Any room whose bidding timer has passed gets its round closed and a winner assigned. */
@@ -35,7 +90,7 @@ async function resolveRound(current: any) {
   // Optimistic lock: if two ticks somehow overlap, only one actually claims this round.
   const { data: claimed } = await supabase
     .from('current_auction')
-    .update({ phase: 'resolving' })
+    .update({ phase: 'resolving', updated_at: new Date().toISOString() })
     .eq('room_id', roomId)
     .eq('phase', 'bidding')
     .select()
@@ -115,6 +170,7 @@ async function resolveRound(current: any) {
       reveal_until: new Date(Date.now() + REVEAL_MS).toISOString(),
       high_bid: soldPrice ?? 0,
       high_bid_team_id: soldTeamId,
+      updated_at: new Date().toISOString(),
     })
     .eq('room_id', roomId);
 
@@ -146,7 +202,7 @@ async function advanceOne(current: any) {
 
   const { data: claimed } = await supabase
     .from('current_auction')
-    .update({ phase: 'advancing' })
+    .update({ phase: 'advancing', updated_at: new Date().toISOString() })
     .eq('room_id', roomId)
     .eq('phase', 'sold')
     .select()
@@ -171,7 +227,10 @@ async function advanceOne(current: any) {
     .maybeSingle();
 
   if (!next) {
-    await supabase.from('current_auction').update({ phase: 'idle', reveal_until: null }).eq('room_id', roomId);
+    await supabase
+      .from('current_auction')
+      .update({ phase: 'idle', reveal_until: null, updated_at: new Date().toISOString() })
+      .eq('room_id', roomId);
     await supabase.from('rooms').update({ status: 'team_building' }).eq('id', roomId);
     console.log(`[engine] room ${roomId}: auction complete`);
     return;
@@ -187,6 +246,7 @@ async function advanceOne(current: any) {
       high_bid_team_id: null,
       reveal_until: null,
       ends_at: new Date(Date.now() + (settings.bid_timer_seconds ?? 20) * 1000).toISOString(),
+      updated_at: new Date().toISOString(),
     })
     .eq('room_id', roomId);
 
